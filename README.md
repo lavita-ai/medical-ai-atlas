@@ -1,7 +1,7 @@
 # PanaAtlas
 A great map for ML/NLP Tools in Biomedical Domain
 
-## NLP Tools/Libraries
+## BioNLP Tools/Libraries
 
 | Name | Company/Developer | Documentation/GitHub? |
 | :--: | :--: | :--: |
