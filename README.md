@@ -9,6 +9,9 @@ A great map for ML/NLP Tools in Biomedical Domain
 |[BioLinkBERT](https://arxiv.org/abs/2203.15827)|[here](https://github.com/michiyasunaga/LinkBERT)| [BLURB](https://microsoft.github.io/BLURB/), [MedQA](https://github.com/jind11/MedQA), [MMLU](https://github.com/hendrycks/test) | 2022 |
 
 ## Datasets and Benchmarks
+| Data name | Description |
+| :--: | :--: |
+|[PubMed Data](https://pubmed.ncbi.nlm.nih.gov/download/)| PubMed contains citations and abstracts of biomedical literature from several resources |
 
 ## BioNLP Tools/Libraries
 
