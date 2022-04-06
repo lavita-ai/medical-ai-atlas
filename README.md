@@ -2,7 +2,7 @@
 A great map for ML/NLP Tools in Biomedical Domain
 
 ## Language Models
-| Model Name/Paper Title | Links to model | Tested benchmarks |
+| Model Name | Links to model | Tested benchmarks |
 | :--: | :--: | :--: |
 |[LinkBERT](https://arxiv.org/abs/2203.15827)|[here](https://github.com/michiyasunaga/LinkBERT)||
 |[PubMedBERT](https://arxiv.org/abs/2007.15779)|[here](https://microsoft.github.io/BLURB/models.html)||
