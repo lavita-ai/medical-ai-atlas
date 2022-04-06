@@ -6,7 +6,7 @@ A great map for ML/NLP Tools in Biomedical Domain
 | :--: | :--: | :--: | :--: |
 | [Pretrained Language Models for Biomedical and Clinical Tasks](https://aclanthology.org/2020.clinicalnlp-1.17/) | [here](https://github.com/facebookresearch/bio-lm) | | 2020 |
 |[PubMedBERT](https://arxiv.org/abs/2007.15779)|[here](https://microsoft.github.io/BLURB/models.html)|| 2021 |
-|[LinkBERT](https://arxiv.org/abs/2203.15827)|[here](https://github.com/michiyasunaga/LinkBERT)|| 2022 |
+|[BioLinkBERT](https://arxiv.org/abs/2203.15827)|[here](https://github.com/michiyasunaga/LinkBERT)|| 2022 |
 
 ## Datasets and Benchmarks
 
