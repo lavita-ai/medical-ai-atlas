@@ -28,6 +28,7 @@ A great map for ML/NLP Tools in Biomedical Domain
 | [Stanza](https://stanfordnlp.github.io/stanza/biomed.html) | Stanford | Biomedical and clinical syntactic analysis and Named Entity Recognition (NER) models | [Demo](http://stanza.run/bio) |
 |[MedCAT](https://github.com/CogStack/MedCAT)| [CogStack](https://cogstack.org/) | Extracting information from Electronic Health Records (EHRs) and link it to biomedical ontologies | [Paper](https://arxiv.org/abs/2010.01165), [Demo](https://medcat.rosalind.kcl.ac.uk/) |
 | [CLAMP](https://clamp.uth.edu/) | The University of Texas Health Science Center at Houston (UTHealth) | Clinical Language Annotation, Modeling, and Processing Toolkit ||
+| [Text2Mol](https://github.com/cnedwards/text2mol) | University of Illinois Urbana-Champaign (UIUC) | Cross-Modal Molecular Retrieval with Natural Language Queries | [Paper](https://aclanthology.org/2021.emnlp-main.47/) |
 
 
 ## Annotation Tools
@@ -36,3 +37,7 @@ A great map for ML/NLP Tools in Biomedical Domain
 | :--: | :--: | :--: |
 | [Light Tag](https://www.lighttag.io/) | Primer.ai | |
 | [prodigy](https://prodi.gy/) | Explosion.ai | |
+
+## Papers/Tasks
+* [[2022] Translation between Molecules and Natural Language](http://blender.cs.illinois.edu/paper/molt5.pdf)
+    * Translation between molecules and language by presenting **MolT5** – a selfsupervised learning framework for pretraining models on a vast amount of unlabeled natural language text and molecule strings.
