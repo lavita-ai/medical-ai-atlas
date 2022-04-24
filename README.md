@@ -1,5 +1,5 @@
 # PanaAtlas
-A great map for ML/NLP Tools in Biomedical Domain
+A great map for ML/NLP Tools/Work in Biomedical Domain
 
 ## Language Models
 | Model Name | Links to model | Tested benchmarks | Year |
