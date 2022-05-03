@@ -33,6 +33,7 @@ A great map for ML/NLP Tools/Work in Biomedical Domain
 | [Text2Mol](https://github.com/cnedwards/text2mol) | University of Illinois Urbana-Champaign (UIUC) | Cross-Modal Molecular Retrieval with Natural Language Queries | [Paper](https://aclanthology.org/2021.emnlp-main.47/) |
 | [Trove](https://github.com/som-shahlab/trove) | [Center for Biomedical Informatics Research, Stanford University](https://bmir.stanford.edu/) | A research framework for building weakly supervised (bio)medical named entity recognition (NER) | [Paper](https://www.nature.com/articles/s41467-021-22328-4)|
 | [BioPortal](https://bioportal.bioontology.org/)| National Center for Biomedical Ontology | A comprehensive repository of biomedical ontologies ||
+| [cTAKES™](https://ctakes.apache.org/) | Initially by [Mayo Clinic](https://www.mayoclinic.org/) | A natural language processing system for extraction of information from electronic medical record clinical free-text | [Paper](https://pubmed.ncbi.nlm.nih.gov/20819853/) |
 
 
 ## Annotation Tools
