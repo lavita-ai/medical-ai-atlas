@@ -43,6 +43,8 @@ A great map for ML/NLP Tools/Work in Biomedical Domain
 | [prodigy](https://prodi.gy/) | Explosion.ai | |
 
 ## Papers/Tasks
+* [[2022] Literature-Augmented Clinical Outcome Prediction](https://arxiv.org/abs/2111.08374#:~:text=Predictive%20models%20for%20medical%20outcomes,signals%20into%20an%20outcome%20prediction.)
+    * Introducing BEEP (Biomedical Evidence-Enhanced Predictions), a novel approach for clinical outcome prediction that retrieves patient-specific medical literature and incorporates it into predictive models.
 * [[2022] Translation between Molecules and Natural Language](http://blender.cs.illinois.edu/paper/molt5.pdf)
     * Translation between molecules and language by presenting **MolT5** – a selfsupervised learning framework for pretraining models on a vast amount of unlabeled natural language text and molecule strings.
 * [[2021] Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference](https://aclanthology.org/2021.acl-long.488.pdf)
