@@ -6,6 +6,7 @@ A great map for ML/NLP Tools/Work in Biomedical Domain
 | :--: | :--: | :--: | :--: |
 | [BioBERT](https://arxiv.org/abs/1901.08746) | [here](https://github.com/naver/biobert-pretrained) || 2019 |
 | [SciBERT](https://arxiv.org/abs/1903.10676) | [here](https://github.com/allenai/scibert) | [ChemProt](https://biocreative.bioinformatics.udel.edu/news/corpora/chemprot-corpus-biocreative-vi/)| 2019 |
+| [BlueBERT](https://arxiv.org/abs/1906.05474) | [here](https://github.com/ncbi-nlp/bluebert) || 2019 |
 | [Pretrained Language Models for Biomedical and Clinical Tasks](https://aclanthology.org/2020.clinicalnlp-1.17/) | [here](https://github.com/facebookresearch/bio-lm) | | 2020 |
 | [BioMedBERT](https://aclanthology.org/2020.coling-main.59/) | [here](https://github.com/BioMedBERT/biomedbert) || 2020 |
 |[BioMegatron](https://aclanthology.org/2020.emnlp-main.379/)| [here](https://catalog.ngc.nvidia.com/models?filters=&orderBy=dateModifiedDESC&query=biomegatron) || 2020 |
