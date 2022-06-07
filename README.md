@@ -13,7 +13,7 @@ A great map for ML/NLP Tools/Work in Biomedical Domain
 |[BioMegatron](https://aclanthology.org/2020.emnlp-main.379/)| [here](https://catalog.ngc.nvidia.com/models?filters=&orderBy=dateModifiedDESC&query=biomegatron) || 2020 |
 |[PubMedBERT](https://arxiv.org/abs/2007.15779)|[here](https://microsoft.github.io/BLURB/models.html)|| 2021 |
 | [BioM-Transformers](https://aclanthology.org/2021.bionlp-1.24/) | [here](https://github.com/salrowili/BioM-Transformers) || 2021 |
-|[BioLinkBERT](https://arxiv.org/abs/2203.15827)|[here](https://github.com/michiyasunaga/LinkBERT) [blog](http://ai.stanford.edu/blog/linkbert/) | [BLURB](https://microsoft.github.io/BLURB/), [MedQA](https://github.com/jind11/MedQA), [MMLU](https://github.com/hendrycks/test) | 2022 |
+|[BioLinkBERT](https://arxiv.org/abs/2203.15827)|[here](https://github.com/michiyasunaga/LinkBERT) [[blog]](http://ai.stanford.edu/blog/linkbert/) | [BLURB](https://microsoft.github.io/BLURB/), [MedQA](https://github.com/jind11/MedQA), [MMLU](https://github.com/hendrycks/test) | 2022 |
 
 :white_check_mark: &nbsp; Known as the first attempt to create an NLP benchmark in the biomedical domain.
 
