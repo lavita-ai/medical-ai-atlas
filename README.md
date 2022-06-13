@@ -42,6 +42,7 @@ A great map for ML/NLP Tools/Work in Biomedical Domain
 | [BioPortal](https://bioportal.bioontology.org/)| National Center for Biomedical Ontology | A comprehensive repository of biomedical ontologies ||
 | [cTAKES™](https://ctakes.apache.org/) | Initially by [Mayo Clinic](https://www.mayoclinic.org/) | A natural language processing system for extraction of information from electronic medical record clinical free-text | [Paper](https://pubmed.ncbi.nlm.nih.gov/20819853/) |
 | [Amazon Comprehend Medical](https://aws.amazon.com/comprehend/medical/) | Amazon | A tool for extracting information from unstructured medical text accurately and quickly | [Guide](https://docs.aws.amazon.com/comprehend-medical/latest/dev/compmed-dev.pdf#comprehendmedical-welcome) |
+| [HITEx](https://www.i2b2.org/software/projects/hitex/hitex_manual.html#about) | Brigham and Women's Hospital and Harvard Medical School | A Health Information Text Extraction open-source natural language processing (NLP) software application | [Manual](https://www.i2b2.org/software/projects/hitex/hitex_manual.html#about) |
 
 
 ## Annotation Tools
