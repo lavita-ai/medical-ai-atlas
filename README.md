@@ -8,6 +8,7 @@ A great map for ML/NLP Tools/Work in Biomedical Domain
 | [SciBERT](https://arxiv.org/abs/1903.10676) | [here](https://github.com/allenai/scibert) | [ChemProt](https://biocreative.bioinformatics.udel.edu/news/corpora/chemprot-corpus-biocreative-vi/)| 2019 |
 | [ClinicalBERT](https://aclanthology.org/W19-1909/) | [here](https://github.com/EmilyAlsentzer/clinicalBERT) [[HF Hub]](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT) |  | 2019 |
 | [BlueBERT](https://arxiv.org/abs/1906.05474) | [here](https://github.com/ncbi-nlp/bluebert) | [BLUE](https://github.com/ncbi-nlp/BLUE_Benchmark)&nbsp;:white_check_mark: | 2019 |
+| [BioALBERT](https://arxiv.org/pdf/2009.09223.pdf) | [here](https://github.com/usmaann/BioALBERT) || 2020 |
 | [DiseaseBERT](https://aclanthology.org/2020.emnlp-main.372.pdf) | [here](https://github.com/heyunh2015/diseaseBERT) || 2020 |
 | [Pretrained Language Models for Biomedical and Clinical Tasks](https://aclanthology.org/2020.clinicalnlp-1.17/) | [here](https://github.com/facebookresearch/bio-lm) | | 2020 |
 | [BioMedBERT](https://aclanthology.org/2020.coling-main.59/) | [here](https://github.com/BioMedBERT/biomedbert) || 2020 |
