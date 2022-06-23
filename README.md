@@ -6,7 +6,7 @@ A great map for ML/NLP Tools/Work in Biomedical Domain
 | :--: | :--: | :--: | :--: | :--: |
 | [BioBERT](https://arxiv.org/abs/1901.08746) | [here](https://github.com/naver/biobert-pretrained) | [PubMed abstracts](https://pubmed.ncbi.nlm.nih.gov/), [PubMed Central® (PMC)](https://www.ncbi.nlm.nih.gov/pmc/) || 2019 |
 | [SciBERT](https://arxiv.org/abs/1903.10676) | [here](https://github.com/allenai/scibert) || [ChemProt](https://biocreative.bioinformatics.udel.edu/news/corpora/chemprot-corpus-biocreative-vi/)| 2019 |
-| [ClinicalBERT](https://aclanthology.org/W19-1909/) | [here](https://github.com/EmilyAlsentzer/clinicalBERT) [[HF Hub]](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT) | | | 2019 |
+| [ClinicalBERT](https://aclanthology.org/W19-1909/) | [here](https://github.com/EmilyAlsentzer/clinicalBERT) [[HF Hub]](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT) | [MIMIC-III](https://www.nature.com/articles/sdata201635) | | 2019 |
 | [BlueBERT](https://arxiv.org/abs/1906.05474) | [here](https://github.com/ncbi-nlp/bluebert) | | [BLUE](https://github.com/ncbi-nlp/BLUE_Benchmark)&nbsp;:white_check_mark: | 2019 |
 | [BioALBERT](https://arxiv.org/pdf/2009.09223.pdf) | [here](https://github.com/usmaann/BioALBERT) ||| 2020 |
 | [DiseaseBERT](https://aclanthology.org/2020.emnlp-main.372.pdf) | [here](https://github.com/heyunh2015/diseaseBERT) ||| 2020 |
@@ -16,7 +16,7 @@ A great map for ML/NLP Tools/Work in Biomedical Domain
 |[PubMedBERT](https://arxiv.org/abs/2007.15779)|[here](https://microsoft.github.io/BLURB/models.html) | [PubMed abstracts](https://pubmed.ncbi.nlm.nih.gov/) || 2021 |
 | [BioM-Transformers](https://aclanthology.org/2021.bionlp-1.24/) | [here](https://github.com/salrowili/BioM-Transformers) ||| 2021 |
 |[BioLinkBERT](https://arxiv.org/abs/2203.15827)|[here](https://github.com/michiyasunaga/LinkBERT) [[blog]](http://ai.stanford.edu/blog/linkbert/) | [PubMed abstracts](https://pubmed.ncbi.nlm.nih.gov/) | [BLURB](https://microsoft.github.io/BLURB/), [MedQA](https://github.com/jind11/MedQA), [MMLU](https://github.com/hendrycks/test) | 2022 |
-| [Clinical-Longformer](https://arxiv.org/abs/2201.11838) | [here](https://github.com/luoyuanlab/Clinical-Longformer) [[HF Hub]](https://huggingface.co/yikuan8/Clinical-Longformer) ||| 2022 |
+| [Clinical-Longformer](https://arxiv.org/abs/2201.11838) | [here](https://github.com/luoyuanlab/Clinical-Longformer) [[HF Hub]](https://huggingface.co/yikuan8/Clinical-Longformer) | [MIMIC-III](https://www.nature.com/articles/sdata201635) || 2022 |
 
 :white_check_mark: &nbsp; Known as the first attempt to create an NLP benchmark in the biomedical domain.
 
