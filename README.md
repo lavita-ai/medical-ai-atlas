@@ -1,4 +1,4 @@
-# PanaAtlas
+# BioNLP Atlas
 A great map for ML/NLP Tools/Work in Biomedical Domain
 
 ## Language Models
