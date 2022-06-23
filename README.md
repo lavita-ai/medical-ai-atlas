@@ -38,6 +38,7 @@ A great map for ML/NLP Tools/Work in Biomedical Domain
 
 | Name | Company/Developer | Description | Documentation |
 | :--: | :--: | :--: | :--: |
+| [HunFlair](https://github.com/flairNLP/flair/blob/master/resources/docs/HUNFLAIR.md#comparison-to-other-biomedical-ner-tools) | [flair](https://github.com/flairNLP/flair) | A state-of-the-art NER tagger for biomedical texts ||
 | [SciSpaCy](https://allenai.github.io/scispacy/) | Allen Institute for AI (AI2) | Models for processing biomedical, scientific or clinical text | |
 | [MedSpacy](https://github.com/medspacy/medspacy) | University of Utah | Library for clinical NLP with spaCy | [Paper](https://arxiv.org/abs/2106.07799) |
 | [Stanza](https://stanfordnlp.github.io/stanza/biomed.html) | Stanford | Biomedical and clinical syntactic analysis and Named Entity Recognition (NER) models | [Demo](http://stanza.run/bio) |
