@@ -34,6 +34,7 @@ A great map for ML/NLP Tools/Work in Biomedical Domain
 | [CBLUE](https://github.com/cbluebenchmark/cblue) | A Chinese Biomedical Language Understanding Evaluation Benchmark | [here](https://aclanthology.org/2022.acl-long.544/) | 2022 |
 | [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html) | A set of files and software that brings together many health and biomedical vocabularies and standards to enable interoperability between computer systems. |||
 | [BREATHE](https://console.cloud.google.com/marketplace/product/breathe-gcp-public-data/breathe?_ga=2.94363933.-1600294044.1656002794&pli=1&project=iddp-334714) | A large-scale biomedical database containing entries from 10 major repositories of biomedical research |||
+| [BioASQ](http://bioasq.org/) | Biomedical semantic indexing and Question Answering (QA) challenges |||
 
 ## BioNLP Tools
 
