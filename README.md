@@ -2,9 +2,9 @@
 A great map for ML/NLP Tools/Work in Biomedical Domain
 
 ## Language Models
-| Model Name | Model | Pretraining Data | Benchmarks | Year |
-| :--: | :--: | :--: | :--: | :--: |
-| [BioBERT](https://arxiv.org/abs/1901.08746) | [here](https://github.com/naver/biobert-pretrained) | [PubMed abstracts](https://pubmed.ncbi.nlm.nih.gov/), [PubMed Central® (PMC)](https://www.ncbi.nlm.nih.gov/pmc/) || 2019 |
+| Model Name | Model | Pretraining Data | Benchmarks | Fine-tuned Tasks | Year |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| [BioBERT](https://arxiv.org/abs/1901.08746) | [here](https://github.com/naver/biobert-pretrained) | [PubMed abstracts](https://pubmed.ncbi.nlm.nih.gov/), [PubMed Central® (PMC)](https://www.ncbi.nlm.nih.gov/pmc/) | | NER, Relation Extraction, QA | 2019 |
 | [SciBERT](https://arxiv.org/abs/1903.10676) | [here](https://github.com/allenai/scibert) | [Semantic Scholar](https://www.semanticscholar.org/) | [ChemProt](https://biocreative.bioinformatics.udel.edu/news/corpora/chemprot-corpus-biocreative-vi/)| 2019 |
 | [ClinicalBERT](https://aclanthology.org/W19-1909/) | [here](https://github.com/EmilyAlsentzer/clinicalBERT) [[HF Hub]](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT) | [MIMIC-III](https://www.nature.com/articles/sdata201635) | | 2019 |
 | [BlueBERT](https://arxiv.org/abs/1906.05474) | [here](https://github.com/ncbi-nlp/bluebert) | [PubMed abstracts](https://pubmed.ncbi.nlm.nih.gov/), [MIMIC-III](https://www.nature.com/articles/sdata201635) | [BLUE](https://github.com/ncbi-nlp/BLUE_Benchmark)&nbsp;:white_check_mark: | 2019 |
