@@ -19,7 +19,7 @@ A great map for ML/NLP Tools/Work in Biomedical Domain
 
 :white_check_mark: &nbsp; Known as the first attempt to create an NLP benchmark in the biomedical domain.
 
-➡️ &nbsp; PICO is a sequence labeling task where the model extracts spans describing the Participants, Interventions, Comparisons, and Outcomes in a clinical trial paper.
+➡️ &nbsp; PICO is a sequence labeling task where the model extracts spans describing the Participants (Population), Interventions, Comparisons, and Outcomes in a clinical trial paper.
 
 ## Datasets and Benchmarks
 | Data name | Description | Paper | Year |
