@@ -15,7 +15,7 @@ A great map for ML/NLP Tools/Work in Biomedical Domain
 |[PubMedBERT](https://arxiv.org/abs/2007.15779)|[here](https://microsoft.github.io/BLURB/models.html) | [PubMed abstracts](https://pubmed.ncbi.nlm.nih.gov/) || 2021 |
 | [BioM-Transformers](https://aclanthology.org/2021.bionlp-1.24/) | [here](https://github.com/salrowili/BioM-Transformers) | [PubMed abstracts](https://pubmed.ncbi.nlm.nih.gov/), [PubMed Central® (PMC)](https://www.ncbi.nlm.nih.gov/pmc/) || 2021 |
 |[BioLinkBERT](https://arxiv.org/abs/2203.15827)|[here](https://github.com/michiyasunaga/LinkBERT) [[blog]](http://ai.stanford.edu/blog/linkbert/) | [PubMed abstracts](https://pubmed.ncbi.nlm.nih.gov/) | [BLURB](https://microsoft.github.io/BLURB/), [MedQA](https://github.com/jind11/MedQA), [MMLU](https://github.com/hendrycks/test) | NER, PICO, Relation Extraction, Sentence Similarity, Document Classification, QA | 2022 |
-| [Clinical-Longformer](https://arxiv.org/abs/2201.11838) | [here](https://github.com/luoyuanlab/Clinical-Longformer) [[HF Hub]](https://huggingface.co/yikuan8/Clinical-Longformer) | [MIMIC-III](https://www.nature.com/articles/sdata201635) || 2022 |
+| [Clinical-Longformer](https://arxiv.org/abs/2201.11838) | [here](https://github.com/luoyuanlab/Clinical-Longformer) [[HF Hub]](https://huggingface.co/yikuan8/Clinical-Longformer) | [MIMIC-III](https://www.nature.com/articles/sdata201635) | | NER, QA, Document Classification, NLI | 2022 |
 
 :white_check_mark: &nbsp; Known as the first attempt to create an NLP benchmark in the biomedical domain.
 
