@@ -71,4 +71,7 @@ A great map for ML/NLP Tools/Work in Biomedical Domain
 * [[2022] Translation between Molecules and Natural Language](http://blender.cs.illinois.edu/paper/molt5.pdf)
     * Translation between molecules and language by presenting **MolT5** – a selfsupervised learning framework for pretraining models on a vast amount of unlabeled natural language text and molecule strings.
 * [[2021] Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference](https://aclanthology.org/2021.acl-long.488.pdf)
-    * A novel framework that utilizes external knowledge for joint biomedical entity and relation extraction named KECI (Knowledge-Enhanced Collective Inference).  
+    * A novel framework that utilizes external knowledge for joint biomedical entity and relation extraction named KECI (Knowledge-Enhanced Collective Inference).
+
+* [[2020] Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition](https://aclanthology.org/2020.emnlp-main.372.pdf)
+    * A new disease knowledge infusion training procedure and evaluating it on a suite of BERT models including BERT, BioBERT, SciBERT, ClinicalBERT, BlueBERT, and ALBERT over three tasks and showing that these models can be enhanced in nearly all cases, demonstrating the viability of disease knowledge infusion.
