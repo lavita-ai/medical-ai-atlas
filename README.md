@@ -38,6 +38,7 @@ A great map for ML/NLP Tools/Work in Biomedical Domain
 | [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html) | A set of files and software that brings together many health and biomedical vocabularies and standards to enable interoperability between computer systems. |||
 | [BREATHE](https://console.cloud.google.com/marketplace/product/breathe-gcp-public-data/breathe?_ga=2.94363933.-1600294044.1656002794&pli=1&project=iddp-334714) | A large-scale biomedical database containing entries from 10 major repositories of biomedical research |||
 | [BioASQ](http://bioasq.org/) | Biomedical semantic indexing and Question Answering (QA) challenges |||
+| [i2b2](https://www.i2b2.org/NLP/DataSets/) | Shared Tasks for Challenges in NLP for Clinical Data |||
 
 ## BioNLP Tools
 
