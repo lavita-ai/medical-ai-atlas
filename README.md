@@ -29,6 +29,7 @@ A great map for ML/NLP Tools/Work in Biomedical Domain
 | Data name | Description | Paper | Year |
 | :--: | :--: | :--: | :--: |
 | [BC5CDR (BioCreative V)](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/track-3-cdr/) | A benchmark for automatic extraction of mechanistic and biomarker chemical-disease relations from the biomedical literature | | 2014 |
+| [PubMed 200k RCT](https://github.com/Franck-Dernoncourt/pubmed-rct) | A Dataset for Sequential Sentence Classification in Medical Abstracts | [here](https://aclanthology.org/I17-2052.pdf) | 2017 |
 | [SNOMEDCT](https://bioportal.bioontology.org/ontologies/SCTO/?p=summary) | Standard Ontology Based on the Ontology for General Medical Science || 2017 |
 | [MedNLI](https://github.com/jgc128/mednli) | A Natural Language Inference Dataset For The Clinical Domain | [here](https://arxiv.org/abs/1808.06752) | 2018 |
 |[MIMIC-III](https://physionet.org/content/mimiciii-demo/1.4/) | A freely accessible critical care database | [here](https://www.nature.com/articles/sdata201635#:~:text=MIMIC%2DIII%20('Medical%20Information,a%20large%20tertiary%20care%20hospital.)) | 2019 |
