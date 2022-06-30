@@ -1,5 +1,5 @@
-# BioNLP Atlas
-A great map for ML/NLP Tools/Work in Biomedical Domain
+# Biomedical and Clinical NLP Atlas
+A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 
 ## Language Models
 | Model Name | Model | Pretraining Data | Benchmarks | Fine-tuned Tasks | Year |
@@ -71,6 +71,8 @@ A great map for ML/NLP Tools/Work in Biomedical Domain
 | [prodigy](https://prodi.gy/) | Explosion.ai | |
 
 ## Papers/Tasks
+* [[2022] User-Driven Research of Medical Note Generation Software (Best paper on human-centered NLP special theme Award NAACL 2022)](https://arxiv.org/pdf/2205.02549.pdf)
+    * Presenting three rounds of user studies, carried out in the context of developing a medical note generation system.
 * [[2022] Literature-Augmented Clinical Outcome Prediction](https://arxiv.org/abs/2111.08374#:~:text=Predictive%20models%20for%20medical%20outcomes,signals%20into%20an%20outcome%20prediction.)
     * Introducing BEEP (Biomedical Evidence-Enhanced Predictions), a novel approach for clinical outcome prediction that retrieves patient-specific medical literature and incorporates it into predictive models.
 * [[2022] Translation between Molecules and Natural Language](http://blender.cs.illinois.edu/paper/molt5.pdf)
