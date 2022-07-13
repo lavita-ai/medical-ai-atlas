@@ -43,6 +43,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [BREATHE](https://console.cloud.google.com/marketplace/product/breathe-gcp-public-data/breathe?_ga=2.94363933.-1600294044.1656002794&pli=1&project=iddp-334714) | A large-scale biomedical database containing entries from 10 major repositories of biomedical research |||
 | [BioASQ](http://bioasq.org/) | Biomedical semantic indexing and Question Answering (QA) challenges |||
 | [i2b2](https://www.i2b2.org/NLP/DataSets/) | Shared Tasks for Challenges in NLP for Clinical Data |||
+| [USMLE®](https://www.nbme.org/services/data-sharing) | A Clinical Skills Patient Note Corpus | [here](https://aclanthology.org/2022.naacl-main.208.pdf) | 2022 |
 
 ## BioNLP Tools
 
