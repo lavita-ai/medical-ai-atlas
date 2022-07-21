@@ -79,6 +79,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
     * Code+Data: [here](https://github.com/MaayanLab/archs4)
 * [[2016] ProtVec: A Continuous Distributed Representation of Biological Sequences](https://arxiv.org/abs/1503.05140?context=cs.LG)
     * Code: [here](https://github.com/ehsanasgari/Deep-Proteomics)
+* [The NCBI SRA (Sequence Read Archive)](https://github.com/ncbi/sra-tools)
 
 ## Papers/Tasks
 * [[2022] Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing](https://www.microsoft.com/en-us/research/publication/making-the-most-of-text-semantics-to-improve-biomedical-vision-language-processing/)
