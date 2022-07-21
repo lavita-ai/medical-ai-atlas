@@ -74,6 +74,9 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 ## Biological Sequence (DNA/RNA/Protein) Generation/Prediction
 * [[2022] ProGen2: Exploring the Boundaries of Protein Language Models](https://arxiv.org/abs/2206.13517)
     * Code+Models: [here](https://github.com/salesforce/progen)
+* [[2018] Massive mining of publicly available RNA-seq data from human and mouse](https://www.nature.com/articles/s41467-018-03751-6)
+    * Web tool: [here](https://maayanlab.cloud/archs4/)
+    * Code+Data: [here](https://github.com/MaayanLab/archs4)
 * [[2016] ProtVec: A Continuous Distributed Representation of Biological Sequences](https://arxiv.org/abs/1503.05140?context=cs.LG)
     * Code: [here](https://github.com/ehsanasgari/Deep-Proteomics)
 
