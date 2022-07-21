@@ -71,6 +71,9 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [Light Tag](https://www.lighttag.io/) | Primer.ai | |
 | [prodigy](https://prodi.gy/) | Explosion.ai | |
 
+## Biological Sequence (DNA/RNA/Protein) Generation/Prediction
+* [ProGen2: Exploring the Boundaries of Protein Language Models](https://arxiv.org/abs/2206.13517)
+
 ## Papers/Tasks
 * [[2022] Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing](https://www.microsoft.com/en-us/research/publication/making-the-most-of-text-semantics-to-improve-biomedical-vision-language-processing/)
     * A language model that achieves state-of-the-art results in radiology natural language inference through its improved vocabulary and novel language pretraining objective leveraging semantics and discourse characteristics in radiology reports.
