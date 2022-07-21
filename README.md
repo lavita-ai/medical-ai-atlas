@@ -81,6 +81,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
     * Code: [here](https://github.com/ehsanasgari/Deep-Proteomics)
 * [The NCBI SRA (Sequence Read Archive)](https://github.com/ncbi/sra-tools)
 * [Tasks Assessing Protein Embeddings (TAPE)](https://github.com/songlab-cal/tape)
+    * A set of five biologically relevant semi-supervised learning tasks spread across different domains of protein biology
 
 ## Papers/Tasks
 * [[2022] Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing](https://www.microsoft.com/en-us/research/publication/making-the-most-of-text-semantics-to-improve-biomedical-vision-language-processing/)
