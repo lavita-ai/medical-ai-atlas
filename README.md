@@ -73,6 +73,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 
 ## Biological Sequence (DNA/RNA/Protein) Generation/Prediction
 * [ProGen2: Exploring the Boundaries of Protein Language Models](https://arxiv.org/abs/2206.13517)
+    * Code+Models: [here](https://github.com/salesforce/progen)
 
 ## Papers/Tasks
 * [[2022] Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing](https://www.microsoft.com/en-us/research/publication/making-the-most-of-text-semantics-to-improve-biomedical-vision-language-processing/)
