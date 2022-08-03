@@ -28,6 +28,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 ## Datasets and Benchmarks
 | Data name | Description | Paper | Year |
 | :--: | :--: | :--: | :--: |
+| [Clinical Abbreviation Sense Inventory (CASI)](https://conservancy.umn.edu/handle/11299/137703) | A collection of clinical abbreviations and acronyms (short forms) with their possible senses (long forms) || 2012 |
 | [BC5CDR (BioCreative V)](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/track-3-cdr/) | A benchmark for automatic extraction of mechanistic and biomarker chemical-disease relations from the biomedical literature | | 2014 |
 | [PubMed 200k RCT](https://github.com/Franck-Dernoncourt/pubmed-rct) | A Dataset for Sequential Sentence Classification in Medical Abstracts | [here](https://aclanthology.org/I17-2052.pdf) | 2017 |
 | [SNOMEDCT](https://bioportal.bioontology.org/ontologies/SCTO/?p=summary) | Standard Ontology Based on the Ontology for General Medical Science || 2017 |
