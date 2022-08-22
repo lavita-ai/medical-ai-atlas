@@ -64,6 +64,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [Amazon Comprehend Medical](https://aws.amazon.com/comprehend/medical/) | Amazon | A tool for extracting information from unstructured medical text accurately and quickly | [Guide](https://docs.aws.amazon.com/comprehend-medical/latest/dev/compmed-dev.pdf#comprehendmedical-welcome) |
 | [HITEx](https://www.i2b2.org/software/projects/hitex/hitex_manual.html#about) | Brigham and Women's Hospital and Harvard Medical School | A Health Information Text Extraction open-source natural language processing (NLP) software application | [Manual](https://www.i2b2.org/software/projects/hitex/hitex_manual.html#about) |
 | [MetaMap](https://lhncbc.nlm.nih.gov/ii/tools/MetaMap.html) | Dr. Alan (Lan) Aronson at the National Library of Medicine (NLM) | A Tool For Recognizing UMLS Concepts in Text | [Here](https://lhncbc.nlm.nih.gov/ii/tools/MetaMap.html) |
+| [BERN](https://bern.korea.ac.kr/) | Korea University, Seoul | A Neural Named Entity Recognition and Multi-Type Normalization Tool for Biomedical Text Mining | [Paper](https://ieeexplore.ieee.org/document/8730332) |
 
 
 ## Annotation Tools
