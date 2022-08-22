@@ -80,6 +80,8 @@ Inspired by efforts such as [allenai/natural-instructions](https://github.com/al
 
 ## Papers
 * [An updated list of Clinical NLP tasks: [Here](https://git.doit.wisc.edu/YGAO/public-available-clinical-nlp-tasks)]
+* [[2022] Large Language Models are Zero-Shot Clinical Information Extractors](https://arxiv.org/abs/2205.12689)
+    * Showing that large language models, such as GPT-3, perform well at zero-shot information extraction from clinical text despite not being trained specifically for the clinical domain.
 * [[2022] Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing](https://www.microsoft.com/en-us/research/publication/making-the-most-of-text-semantics-to-improve-biomedical-vision-language-processing/)
     * A language model that achieves state-of-the-art results in radiology natural language inference through its improved vocabulary and novel language pretraining objective leveraging semantics and discourse characteristics in radiology reports.
 * [[2022] User-Driven Research of Medical Note Generation Software (Best paper on human-centered NLP special theme Award NAACL 2022)](https://arxiv.org/pdf/2205.02549.pdf)
