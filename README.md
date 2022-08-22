@@ -73,6 +73,8 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [Light Tag](https://www.lighttag.io/) | Primer.ai | |
 | [prodigy](https://prodi.gy/) | Explosion.ai | |
 
+➡️ &nbsp;  [Map of Applications for Linguistic Annotation](https://lgessler.com/mala/)
+
 ## Tasks
 Inspired by efforts such as [allenai/natural-instructions](https://github.com/allenai/natural-instructions), we created a list of biomedical and clinical NLP tasks. We list input and output formats, task descriptions, and some examples for each task.
 
