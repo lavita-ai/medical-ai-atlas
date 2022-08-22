@@ -73,19 +73,10 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [Light Tag](https://www.lighttag.io/) | Primer.ai | |
 | [prodigy](https://prodi.gy/) | Explosion.ai | |
 
-## Biological Sequence (DNA/RNA/Protein) Generation/Prediction
-* [[2022] ProGen2: Exploring the Boundaries of Protein Language Models](https://arxiv.org/abs/2206.13517)
-    * Code+Models: [here](https://github.com/salesforce/progen)
-* [[2018] Massive mining of publicly available RNA-seq data from human and mouse](https://www.nature.com/articles/s41467-018-03751-6)
-    * Web tool: [here](https://maayanlab.cloud/archs4/)
-    * Code+Data: [here](https://github.com/MaayanLab/archs4)
-* [[2016] ProtVec: A Continuous Distributed Representation of Biological Sequences](https://arxiv.org/abs/1503.05140?context=cs.LG)
-    * Code: [here](https://github.com/ehsanasgari/Deep-Proteomics)
-* [The NCBI SRA (Sequence Read Archive)](https://github.com/ncbi/sra-tools)
-* [Tasks Assessing Protein Embeddings (TAPE)](https://github.com/songlab-cal/tape)
-    * A set of five biologically relevant semi-supervised learning tasks spread across different domains of protein biology
+## Tasks
+Inspired by efforts such as [allenai/natural-instructions](https://github.com/allenai/natural-instructions), we created a list of biomedical and clinical NLP tasks. We list input and output formats, task descriptions, and some examples for each task.
 
-## Papers/Tasks
+## Papers
 * [An updated list of Clinical NLP tasks: [Here](https://git.doit.wisc.edu/YGAO/public-available-clinical-nlp-tasks)]
 * [[2022] Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing](https://www.microsoft.com/en-us/research/publication/making-the-most-of-text-semantics-to-improve-biomedical-vision-language-processing/)
     * A language model that achieves state-of-the-art results in radiology natural language inference through its improved vocabulary and novel language pretraining objective leveraging semantics and discourse characteristics in radiology reports.
