@@ -33,6 +33,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [PubMed 200k RCT](https://github.com/Franck-Dernoncourt/pubmed-rct) | A Dataset for Sequential Sentence Classification in Medical Abstracts | [here](https://aclanthology.org/I17-2052.pdf) | 2017 |
 | [SNOMEDCT](https://bioportal.bioontology.org/ontologies/SCTO/?p=summary) | Standard Ontology Based on the Ontology for General Medical Science || 2017 |
 | [MedNLI](https://github.com/jgc128/mednli) | A Natural Language Inference Dataset For The Clinical Domain | [here](https://arxiv.org/abs/1808.06752) | 2018 |
+| [EBM-NLP corpus](https://ebm-nlp.herokuapp.com/) | A corpus of 5,000 richly annotated abstracts of medical articles with PICO annotation | [here](https://aclanthology.org/P18-1019/) | 2018 |
 |[MIMIC-III](https://physionet.org/content/mimiciii-demo/1.4/) | A freely accessible critical care database | [here](https://www.nature.com/articles/sdata201635#:~:text=MIMIC%2DIII%20('Medical%20Information,a%20large%20tertiary%20care%20hospital.)) | 2019 |
 | [MedQuAD](https://github.com/abachaa/MedQuAD) | Medical Question Answering Dataset of 47,457 QA pairs | [here](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3119-4) | 2019 |
 |[PubMed Data](https://pubmed.ncbi.nlm.nih.gov/download/) | PubMed contains citations and abstracts of biomedical literature from several resources || Last update: 2021 |
