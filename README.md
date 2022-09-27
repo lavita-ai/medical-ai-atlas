@@ -98,3 +98,6 @@ Inspired by efforts such as [allenai/natural-instructions](https://github.com/al
 
 * [[2020] Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition](https://aclanthology.org/2020.emnlp-main.372.pdf)
     * A new disease knowledge infusion training procedure and evaluating it on a suite of BERT models including BERT, BioBERT, SciBERT, ClinicalBERT, BlueBERT, and ALBERT over three tasks and showing that these models can be enhanced in nearly all cases, demonstrating the viability of disease knowledge infusion.
+
+* [[2018] Identifying and characterizing highly similar notes in big clinical note datasets](Identifying and characterizing highly similar notes in big clinical note datasets)
+    * Using a scalable algorithm to de-duplicate clinical notes and further characterize the sources of duplication.
