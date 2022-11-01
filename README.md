@@ -48,6 +48,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [BioASQ](http://bioasq.org/) | Biomedical semantic indexing and Question Answering (QA) challenges |||
 | [i2b2](https://www.i2b2.org/NLP/DataSets/) | Shared Tasks for Challenges in NLP for Clinical Data |||
 | [USMLE®](https://www.nbme.org/services/data-sharing) | A Clinical Skills Patient Note Corpus | [here](https://aclanthology.org/2022.naacl-main.208.pdf) | 2022 |
+| [MS2](https://github.com/allenai/mslr-shared-task#dataset-access) | A dataset for Multi-Document Summarization of Medical Studies ([Shared task](https://github.com/allenai/mslr-shared-task)) | [Here](https://arxiv.org/abs/2104.06486) | 2021 |
 
 ## BioNLP Tools
 
