@@ -19,7 +19,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [Clinical-Longformer](https://arxiv.org/abs/2201.11838) | [here](https://github.com/luoyuanlab/Clinical-Longformer) [[HF Hub]](https://huggingface.co/yikuan8/Clinical-Longformer) | [MIMIC-III](https://www.nature.com/articles/sdata201635) | [emrQA](https://github.com/panushri25/emrQA) | NER, QA, Document Classification, NLI | 2022 |
 | [GatorTron](https://www.medrxiv.org/content/medrxiv/early/2022/03/18/2022.02.27.22271257.full.pdf) || [UF Health Integrated Data Repository (IDR)](https://www.ctsi.ufl.edu/research/study-design-and-analysis/integrated-data-repository/), PubMed, Wikipedia, MIMIC-III || Clinical Concept Extraction, Relation Extraction, Semantic Similarity, NLI, QA | 2022 |
 | [BioGPT](https://arxiv.org/abs/2210.10341) | [Here](https://github.com/microsoft/BioGPT) |||| 2022 |
-| [PubMedGPT 2.7B](https://crfm.stanford.edu/2022/12/15/pubmedgpt.html) | [Here](https://huggingface.co/stanford-crfm/pubmedgpt), [Code](https://github.com/stanford-crfm/pubmedgpt) | PubMed Abstracts and PubMed Central portions of the [Pile](https://pile.eleuther.ai/) dataset ||| 2022 |
+| [PubMedGPT 2.7B](https://crfm.stanford.edu/2022/12/15/pubmedgpt.html) | [Here](https://huggingface.co/stanford-crfm/pubmedgpt), [Code](https://github.com/stanford-crfm/pubmedgpt), [blog](https://www.mosaicml.com/blog/introducing-pubmed-gpt) | PubMed Abstracts and PubMed Central portions of the [Pile](https://pile.eleuther.ai/) dataset ||| 2022 |
 | [DRAGON](https://arxiv.org/abs/2210.09338) | [Here](https://github.com/michiyasunaga/dragon) |||| 2022 |
 
 :white_check_mark: &nbsp; Known as the first attempt to create an NLP benchmark in the biomedical domain.
