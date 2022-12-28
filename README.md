@@ -38,6 +38,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [SNOMEDCT](https://bioportal.bioontology.org/ontologies/SCTO/?p=summary) | Standard Ontology Based on the Ontology for General Medical Science || 2017 |
 | [MedNLI](https://github.com/jgc128/mednli) | A Natural Language Inference Dataset For The Clinical Domain | [here](https://arxiv.org/abs/1808.06752) | 2018 |
 | [EBM-NLP corpus](https://ebm-nlp.herokuapp.com/) | A corpus of 5,000 richly annotated abstracts of medical articles with PICO annotation | [here](https://aclanthology.org/P18-1019/) | 2018 |
+| [MedicationQA](https://github.com/abachaa/Medication_QA_MedInfo2019) | A gold standard corpus for Medication Question Answering | [Here](https://ebooks.iospress.nl/publication/51941) | 2019 |
 | [PubMedQA](https://pubmedqa.github.io/) | A Dataset for Biomedical Research Question Answering | [Here](https://arxiv.org/abs/1909.06146) | 2019 |
 |[MIMIC-III](https://physionet.org/content/mimiciii-demo/1.4/) | A freely accessible critical care database | [here](https://www.nature.com/articles/sdata201635#:~:text=MIMIC%2DIII%20('Medical%20Information,a%20large%20tertiary%20care%20hospital.)) | 2019 |
 | [MedQuAD](https://github.com/abachaa/MedQuAD) | Medical Question Answering Dataset of 47,457 QA pairs | [here](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3119-4) | 2019 |
