@@ -76,6 +76,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [BERN](https://bern.korea.ac.kr/) | Korea University, Seoul | A Neural Named Entity Recognition and Multi-Type Normalization Tool for Biomedical Text Mining | [Paper](https://ieeexplore.ieee.org/document/8730332) |
 | [DisGeNET](https://www.disgenet.org/home/) | [Integrative Biomedical Informatics Group ](http://grib.imim.es/research/integrative-biomedical-informatics/) | A discovery platform containing one of the largest publicly available collections of genes and variants associated to human diseases | [Here](https://www.disgenet.org/dbinfo)|
 | [DISNET](https://disnet.ctb.upm.es/) | [Centro de Tecnología Biomédica (CTB)](http://www.ctb.upm.es/) | A platform for drug repositioning and disease understanding through complex networks creation and analysis ||
+| [BioSpaCy](https://github.com/wjbmattingly/biospacy) || A pipeline for processing biology texts ||
 
 
 ## Annotation Tools
