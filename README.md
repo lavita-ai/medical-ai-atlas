@@ -56,6 +56,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [i2b2](https://www.i2b2.org/NLP/DataSets/) | Shared Tasks for Challenges in NLP for Clinical Data |||
 | [USMLE®](https://www.nbme.org/services/data-sharing) | A Clinical Skills Patient Note Corpus | [Here](https://aclanthology.org/2022.naacl-main.208.pdf) | 2022 |
 | [MedMCQA](https://medmcqa.github.io/) | Multi-Subject Multi-Choice Dataset for Medical domain | [Here](https://proceedings.mlr.press/v174/pal22a.html) | 2022 |
+| [eICU Collaborative Research Database (eICU-CRD)](https://eicu-crd.mit.edu/) | A database comprises of 200,859 stays at ICUs and step-down units across 208 hospitals in the continental United States |||
 
 ## BioNLP Tools
 
