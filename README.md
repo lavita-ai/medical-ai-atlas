@@ -94,6 +94,7 @@ Inspired by efforts such as [allenai/natural-instructions](https://github.com/al
 
 ## Papers
 * [An updated list of Clinical NLP tasks: [Here](https://git.doit.wisc.edu/YGAO/public-available-clinical-nlp-tasks)]
+* [[2022] Large Language Models Encode Clinical Knowledge](https://arxiv.org/abs/2212.13138)
 * [[2022] Medical Question Understanding and Answering with Knowledge Grounding and Semantic Self-Supervision](https://arxiv.org/abs/2209.15301)
     * [Code](https://github.com/KhalilMrini/Medical-Question-Answering)
 * [[2022] Large Language Models are Zero-Shot Clinical Information Extractors](https://arxiv.org/abs/2205.12689)
