@@ -22,7 +22,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [BioGPT](https://arxiv.org/abs/2210.10341) | [Here](https://github.com/microsoft/BioGPT) ||| Relation Extraction, QA, Document Classification | 2022 |
 | [PubMedGPT 2.7B](https://crfm.stanford.edu/2022/12/15/pubmedgpt.html) | [Here](https://huggingface.co/stanford-crfm/pubmedgpt), [Code](https://github.com/stanford-crfm/pubmedgpt), [blog](https://www.mosaicml.com/blog/introducing-pubmed-gpt) | PubMed Abstracts and PubMed Central portions of the [Pile](https://pile.eleuther.ai/) dataset | [MedQA](https://github.com/jind11/MedQA), [PubMedQA](https://pubmedqa.github.io/), [BioASQ](http://bioasq.org/) | QA | 2022 |
 | [DRAGON](https://arxiv.org/abs/2210.09338) | [Here](https://github.com/michiyasunaga/dragon) |||| 2022 |
-| [Clinical-T5](https://physionet.org/content/clinical-t5/1.0.0/) | [Here](https://huggingface.co/xyla/Clinical-T5-Large) ||| Has not been evaluated yet | 2023 |
+| [Clinical-T5](https://physionet.org/content/clinical-t5/1.0.0/) | [Here](https://huggingface.co/xyla/Clinical-T5-Large) | [MIMIC-III](https://www.nature.com/articles/sdata201635), MIMIC-IV || Has not been evaluated yet | 2023 |
 
 :white_check_mark: &nbsp; Known as the first attempt to create an NLP benchmark in the biomedical domain.
 
