@@ -46,6 +46,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [MedQuAD](https://github.com/abachaa/MedQuAD) | Medical Question Answering Dataset of 47,457 QA pairs | [Here](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3119-4) | 2019 |
 | [MeQSum](https://github.com/abachaa/MeQSum) | Corpus of 1,000 summarized consumer health questions | [Here](https://aclanthology.org/P19-1215/) | 2019 |
 | [MedDialog](https://github.com/UCSD-AI4H/Medical-Dialogue-System) | A Chinese medical dialogue dataset | [Here](https://aclanthology.org/2020.emnlp-main.743/)| 2020 |
+| [CLIP](https://github.com/asappresearch/clip) | A Dataset for Extracting Action Items for Physicians from Hospital Discharge Notes | [Here](https://aclanthology.org/2021.acl-long.109/) | 2021 |
 |[PubMed Data](https://pubmed.ncbi.nlm.nih.gov/download/) | PubMed contains citations and abstracts of biomedical literature from several resources || Last update: 2021 |
 | [BLURB](https://microsoft.github.io/BLURB/) | Biomedical Language Understanding and Reasoning Benchmark | [Here](https://arxiv.org/abs/2007.15779) | Last update: 2021 |
 | [BioLeaflets](https://github.com/bayer-science-for-a-better-life/data2text-bioleaflets) | A biomedical dataset for Data2Text generation | [Here](https://aclanthology.org/2021.inlg-1.40/) | 2021 |
