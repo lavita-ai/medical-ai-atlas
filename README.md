@@ -99,7 +99,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 
 ## Useful GitHub repositories
 
-| Github repo | Explanation |
+| GitHub repo | Explanation |
 | :--: | :--: |
 | [awesome-healthcare](https://github.com/kakoni/awesome-healthcare) | Curated list of awesome open source healthcare software, libraries, tools and resources |
 
