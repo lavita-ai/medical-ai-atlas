@@ -63,6 +63,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [MedMCQA](https://medmcqa.github.io/) | Multi-Subject Multi-Choice Dataset for Medical domain | [Here](https://proceedings.mlr.press/v174/pal22a.html) | 2022 |
 | [eICU Collaborative Research Database (eICU-CRD)](https://eicu-crd.mit.edu/) | A database comprises of 200,859 stays at ICUs and step-down units across 208 hospitals in the continental United States |||
 | [RadQA](https://github.com/krobertslab/datasets/tree/master/radqa) | A Question Answering Dataset to Improve Comprehension of Radiology Reports | [Here](https://aclanthology.org/2022.lrec-1.672/) | 2022 |
+| [BenchMD](https://github.com/rajpurkarlab/BenchMD) | A Benchmark for Modality-Agnostic Learning on Medical Images and Sensors | [Here](https://arxiv.org/abs/2304.08486) | 2023 |
 
 ## BioNLP Tools
 
