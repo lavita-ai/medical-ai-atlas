@@ -26,6 +26,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [Med-PaLM](https://arxiv.org/abs/2212.13138) ||||| 2022 |
 | [Clinical-T5](https://physionet.org/content/clinical-t5/1.0.0/) | [Here](https://huggingface.co/xyla/Clinical-T5-Large) | [MIMIC-III](https://www.nature.com/articles/sdata201635), [MIMIC-IV](https://physionet.org/content/mimiciv/2.2/) || QA, NLI, Multi-label classification | 2023 |
 | [BiomedCLIP](https://arxiv.org/abs/2303.00915) ||||| 2023 |
+| [medAlpaca](https://arxiv.org/abs/2304.08247) | [Here](https://github.com/kbressem/medAlpaca) |||| 2023 |
 
 :white_check_mark: &nbsp; Known as the first attempt to create an NLP benchmark in the biomedical domain.
 
