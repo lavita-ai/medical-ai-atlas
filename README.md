@@ -1,7 +1,7 @@
 # Biomedical and Clinical NLP Atlas
 A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 
-## Language Models
+## Large Language Models (LLMs)
 | Model Name | Model | Pretraining Data | Benchmarks | Fine-tuned Tasks | Year |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | [BioBERT](https://arxiv.org/abs/1901.08746) | [Here](https://github.com/naver/biobert-pretrained) | [PubMed abstracts](https://pubmed.ncbi.nlm.nih.gov/), [PubMed Central® (PMC)](https://www.ncbi.nlm.nih.gov/pmc/) | | NER, Relation Extraction, Question Answering (QA) | 2019 |
@@ -26,14 +26,18 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [Med-PaLM](https://arxiv.org/abs/2212.13138) ||||| 2022 |
 | [Clinical-T5](https://physionet.org/content/clinical-t5/1.0.0/) | [Here](https://huggingface.co/xyla/Clinical-T5-Large) | [MIMIC-III](https://www.nature.com/articles/sdata201635), [MIMIC-IV](https://physionet.org/content/mimiciv/2.2/) || QA, NLI, Multi-label classification | 2023 |
 | [BiomedCLIP](https://arxiv.org/abs/2303.00915) ||||| 2023 |
-| [medAlpaca](https://arxiv.org/abs/2304.08247) | [Here](https://github.com/kbressem/medAlpaca) |||| 2023 |
-| [Med-Flamingo](https://arxiv.org/abs/2307.15189) | [Here](https://github.com/snap-stanford/med-flamingo) |||| 2023 |
 
 :white_check_mark: &nbsp; Known as the first attempt to create an NLP benchmark in the biomedical domain.
 
 ➡️ &nbsp; PICO is a sequence labeling task where the model extracts spans describing the Participants (Population), Interventions, Comparisons, and Outcomes in a clinical trial paper.
 
 ➡️ &nbsp;  Sequential Sentence Classification: Each sentence of a PubMed abstract is labeled with one of the following classes: background, objective, method, result, or conclusion.
+
+## Open Large Language Models (LLMs)
+| Model Name | Model | Pretraining Data | Benchmarks | Fine-tuned Tasks | Year |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| [MedAlpaca](https://arxiv.org/abs/2304.08247) | [Here](https://github.com/kbressem/medAlpaca) |||| 2023 |
+| [Med-Flamingo](https://arxiv.org/abs/2307.15189) | [Here](https://github.com/snap-stanford/med-flamingo) |||| 2023 |
 
 ## Datasets and Benchmarks
 | Data name | Description | Paper | Year |
