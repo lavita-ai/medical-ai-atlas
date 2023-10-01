@@ -38,6 +38,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | [MedAlpaca](https://arxiv.org/abs/2304.08247) | [Here](https://github.com/kbressem/medAlpaca) |||| 2023 |
 | [Med-Flamingo](https://arxiv.org/abs/2307.15189) | [Here](https://github.com/snap-stanford/med-flamingo) |||| 2023 |
+| [PMC-LLaMA](https://arxiv.org/abs/2304.14454)| [Here](https://github.com/chaoyi-wu/PMC-LLaMA) |||| 2023 |
 
 ## Datasets and Benchmarks
 | Data name | Description | Paper | Year |
