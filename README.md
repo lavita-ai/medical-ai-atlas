@@ -1,4 +1,4 @@
-# Biomedical and Clinical NLP Atlas
+# Medical AI Atlas
 A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 
 ## Large Language Models (LLMs)
