@@ -44,6 +44,13 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [Med-Flamingo](https://arxiv.org/abs/2307.15189) | [Here](https://github.com/snap-stanford/med-flamingo) |||| 2023 |
 | [PMC-LLaMA 13B](https://arxiv.org/abs/2304.14454)| [Here](https://huggingface.co/axiong/PMC_LLaMA_13B) | [Here](https://github.com/chaoyi-wu/PMC-LLaMA) || QA | Aug 2023 |
 | [MEDITRON 7/70B](https://arxiv.org/abs/2311.16079) | [Here](https://huggingface.co/epfl-llm/meditron-70b) | [Here](https://github.com/epfLLM/meditron) || QA | Nov 2023 |
+| [AlpaCare 7/13B](https://arxiv.org/abs/2310.14558) || [Here](https://github.com/XZhang97666/AlpaCare) || Apr 2024 |
+
+## Leaderboards
+| Name| Link |
+| :--: | :--: |
+|Open Medical-LLM Leaderboard | [https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard)|
+
 
 ## Datasets and Benchmarks
 | Data name | Description | Paper | Year |
