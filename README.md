@@ -5,7 +5,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | Model Name | Model | GitHub | Benchmarks | Fine-tuned Tasks | Year |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | [Med-Flamingo](https://arxiv.org/abs/2307.15189) | [Here](https://github.com/snap-stanford/med-flamingo) |||| 2023 |
-| [ChatDoctor](https://arxiv.org/abs/2303.14070) | [Here](https://drive.google.com/drive/folders/11-qPzz9ZdHD6pc47wBSOUSU61MaDPyRh) | [Here](https://github.com/Kent0n-Li/ChatDoctor) | | | Jun 2023 |
+| [ChatDoctor 7B](https://arxiv.org/abs/2303.14070) | [Here](https://drive.google.com/drive/folders/11-qPzz9ZdHD6pc47wBSOUSU61MaDPyRh) | [Here](https://github.com/Kent0n-Li/ChatDoctor) | | | Jun 2023 |
 | [PMC-LLaMA 13B](https://arxiv.org/abs/2304.14454)| [Here](https://huggingface.co/axiong/PMC_LLaMA_13B) | [Here](https://github.com/chaoyi-wu/PMC-LLaMA) || QA | Aug 2023 |
 | [MedAlpaca 7/13B](https://arxiv.org/abs/2304.08247) | [Here](https://huggingface.co/medalpaca/medalpaca-13b) | [Here](https://github.com/kbressem/medAlpaca) | USMLE Steps 1, 2, 3 | QA | Oct 2023 |
 | [MEDITRON 7/70B](https://arxiv.org/abs/2311.16079) | [Here](https://huggingface.co/epfl-llm/meditron-70b) | [Here](https://github.com/epfLLM/meditron) || QA | Nov 2023 |
