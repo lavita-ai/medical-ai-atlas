@@ -7,7 +7,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [BioBERT](https://arxiv.org/abs/1901.08746) | [Here](https://github.com/naver/biobert-pretrained) | [PubMed abstracts](https://pubmed.ncbi.nlm.nih.gov/), [PubMed Central® (PMC)](https://www.ncbi.nlm.nih.gov/pmc/) | | NER, Relation Extraction, Question Answering (QA) | 2019 |
 | [SciBERT](https://arxiv.org/abs/1903.10676) | [Here](https://github.com/allenai/scibert) | [Semantic Scholar](https://www.semanticscholar.org/) | [ChemProt](https://biocreative.bioinformatics.udel.edu/news/corpora/chemprot-corpus-biocreative-vi/)| NER, PICO Extraction, Text Classification, Relation Classification, Dependency Parsing | 2019 |
 | [ClinicalBERT](https://aclanthology.org/W19-1909/) | [Here](https://github.com/EmilyAlsentzer/clinicalBERT) [[HF Hub]](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT) | [MIMIC-III](https://www.nature.com/articles/sdata201635) | | NER, Natural Language Inference (NLI) | 2019 |
-| [BlueBERT](https://arxiv.org/abs/1906.05474) | [Here](https://github.com/ncbi-nlp/bluebert) | [PubMed abstracts](https://pubmed.ncbi.nlm.nih.gov/), [MIMIC-III](https://www.nature.com/articles/sdata201635) | [BLUE](https://github.com/ncbi-nlp/BLUE_Benchmark)&nbsp;:white_check_mark: | Sentece Similarity, NER, Relation Extraction, Document Classification, NLI | 2019 |
+| [BlueBERT](https://arxiv.org/abs/1906.05474) | [Here](https://github.com/ncbi-nlp/bluebert) | [PubMed abstracts](https://pubmed.ncbi.nlm.nih.gov/), [MIMIC-III](https://www.nature.com/articles/sdata201635) | [BLUE](https://github.com/ncbi-nlp/BLUE_Benchmark)&nbsp;:white_check_mark: | Sentence Similarity, NER, Relation Extraction, Document Classification, NLI | 2019 |
 | [BioMed-RoBERTa](https://aclanthology.org/2020.acl-main.740.pdf) | [Here](https://github.com/allenai/dont-stop-pretraining) [[HF Hub]](https://huggingface.co/allenai/biomed_roberta_base) | [S2ORC](https://github.com/allenai/s2orc) || Relation Classification,  Sequential Sentence Classification | 2020 |
 | [BioClinRoBERTa (RoBERTa-large-PM-M3-Voc)](https://aclanthology.org/2020.clinicalnlp-1.17/) | [Here](https://github.com/facebookresearch/bio-lm) |||| 2020 |
 | [BioALBERT](https://arxiv.org/pdf/2009.09223.pdf) | [Here](https://github.com/usmaann/BioALBERT) | [PubMed abstracts](https://pubmed.ncbi.nlm.nih.gov/), [PubMed Central® (PMC)](https://www.ncbi.nlm.nih.gov/pmc/) | | NER | 2020 |
@@ -73,7 +73,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [i2b2](https://www.i2b2.org/NLP/DataSets/) | Shared Tasks for Challenges in NLP for Clinical Data |||
 | [USMLE®](https://www.nbme.org/services/data-sharing) | A Clinical Skills Patient Note Corpus | [Here](https://aclanthology.org/2022.naacl-main.208.pdf) | 2022 |
 | [MedMCQA](https://medmcqa.github.io/) | Multi-Subject Multi-Choice Dataset for Medical domain | [Here](https://proceedings.mlr.press/v174/pal22a.html) | 2022 |
-| [eICU Collaborative Research Database (eICU-CRD)](https://eicu-crd.mit.edu/) | A database comprises of 200,859 stays at ICUs and step-down units across 208 hospitals in the continental United States |||
+| [eICU Collaborative Research Database (eICU-CRD)](https://eicu-crd.mit.edu/) | A database comprised of 200,859 stays at ICUs and step-down units across 208 hospitals in the continental United States |||
 | [RadQA](https://github.com/krobertslab/datasets/tree/master/radqa) | A Question Answering Dataset to Improve Comprehension of Radiology Reports | [Here](https://aclanthology.org/2022.lrec-1.672/) | 2022 |
 | [BenchMD](https://github.com/rajpurkarlab/BenchMD) | A Benchmark for Modality-Agnostic Learning on Medical Images and Sensors | [Here](https://arxiv.org/abs/2304.08486) | 2023 |
 
@@ -135,9 +135,9 @@ Inspired by efforts such as [allenai/natural-instructions](https://github.com/al
 * [[2022] Literature-Augmented Clinical Outcome Prediction](https://arxiv.org/abs/2111.08374#:~:text=Predictive%20models%20for%20medical%20outcomes,signals%20into%20an%20outcome%20prediction.)
     * Introducing BEEP (Biomedical Evidence-Enhanced Predictions), a novel approach for clinical outcome prediction that retrieves patient-specific medical literature and incorporates it into predictive models.
 * [[2022] Translation between Molecules and Natural Language](http://blender.cs.illinois.edu/paper/molt5.pdf)
-    * Translation between molecules and language by presenting **MolT5** – a selfsupervised learning framework for pretraining models on a vast amount of unlabeled natural language text and molecule strings.
+    * Translation between molecules and language by presenting **MolT5** – a self-supervised learning framework for pretraining models on a vast amount of unlabeled natural language text and molecule strings.
 * [[2021] Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference](https://aclanthology.org/2021.acl-long.488.pdf)
-    * A novel framework that utilizes external knowledge for joint biomedical entity and relation extraction named KECI (Knowledge-Enhanced Collective Inference).
+    * A novel framework that utilizes external knowledge for joint biomedical entity and relation extraction is named KECI (Knowledge-Enhanced Collective Inference).
 
 * [[2020] Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition](https://aclanthology.org/2020.emnlp-main.372.pdf)
     * A new disease knowledge infusion training procedure and evaluating it on a suite of BERT models including BERT, BioBERT, SciBERT, ClinicalBERT, BlueBERT, and ALBERT over three tasks and showing that these models can be enhanced in nearly all cases, demonstrating the viability of disease knowledge infusion.
