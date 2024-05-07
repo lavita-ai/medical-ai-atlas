@@ -1,6 +1,20 @@
 # Medical AI Atlas
 A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 
+## Open Medical Large Language Models (LLMs)
+| Model Name | Model | GitHub | Benchmarks | Fine-tuned Tasks | Year |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| [Med-Flamingo](https://arxiv.org/abs/2307.15189) | [Here](https://github.com/snap-stanford/med-flamingo) |||| 2023 |
+| [PMC-LLaMA 13B](https://arxiv.org/abs/2304.14454)| [Here](https://huggingface.co/axiong/PMC_LLaMA_13B) | [Here](https://github.com/chaoyi-wu/PMC-LLaMA) || QA | Aug 2023 |
+| [MedAlpaca 7/13B](https://arxiv.org/abs/2304.08247) | [Here](https://huggingface.co/medalpaca/medalpaca-13b) | [Here](https://github.com/kbressem/medAlpaca) ||| Oct 2023 |
+| [MEDITRON 7/70B](https://arxiv.org/abs/2311.16079) | [Here](https://huggingface.co/epfl-llm/meditron-70b) | [Here](https://github.com/epfLLM/meditron) || QA | Nov 2023 |
+| [AlpaCare 7/13B](https://arxiv.org/abs/2310.14558) | [Here](https://huggingface.co/xz97/AlpaCare-llama2-13b)| [Here](https://github.com/XZhang97666/AlpaCare) ||| Apr 2024 |
+
+## Leaderboards
+| Name| Link |
+| :--: | :--: |
+|Open Medical-LLM Leaderboard | [https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard)|
+
 ## Large Language Models (LLMs)
 | Model Name | Model | Pretraining Data | Benchmarks | Fine-tuned Tasks | Year |
 | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -36,21 +50,6 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 ➡️ &nbsp; PICO is a sequence labeling task where the model extracts spans describing the Participants (Population), Interventions, Comparisons, and Outcomes in a clinical trial paper.
 
 ➡️ &nbsp;  Sequential Sentence Classification: Each sentence of a PubMed abstract is labeled with one of the following classes: background, objective, method, result, or conclusion.
-
-## Open Medical Large Language Models (LLMs)
-| Model Name | Model | GitHub | Benchmarks | Fine-tuned Tasks | Year |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| [Med-Flamingo](https://arxiv.org/abs/2307.15189) | [Here](https://github.com/snap-stanford/med-flamingo) |||| 2023 |
-| [PMC-LLaMA 13B](https://arxiv.org/abs/2304.14454)| [Here](https://huggingface.co/axiong/PMC_LLaMA_13B) | [Here](https://github.com/chaoyi-wu/PMC-LLaMA) || QA | Aug 2023 |
-| [MedAlpaca 7/13B](https://arxiv.org/abs/2304.08247) | [Here](https://huggingface.co/medalpaca/medalpaca-13b) | [Here](https://github.com/kbressem/medAlpaca) ||| Oct 2023 |
-| [MEDITRON 7/70B](https://arxiv.org/abs/2311.16079) | [Here](https://huggingface.co/epfl-llm/meditron-70b) | [Here](https://github.com/epfLLM/meditron) || QA | Nov 2023 |
-| [AlpaCare 7/13B](https://arxiv.org/abs/2310.14558) | [Here](https://huggingface.co/xz97/AlpaCare-llama2-13b)| [Here](https://github.com/XZhang97666/AlpaCare) ||| Apr 2024 |
-
-## Leaderboards
-| Name| Link |
-| :--: | :--: |
-|Open Medical-LLM Leaderboard | [https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard)|
-
 
 ## Datasets and Benchmarks
 | Data name | Description | Paper | Year |
