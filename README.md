@@ -37,12 +37,13 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 
 ➡️ &nbsp;  Sequential Sentence Classification: Each sentence of a PubMed abstract is labeled with one of the following classes: background, objective, method, result, or conclusion.
 
-## Open Large Language Models (LLMs)
-| Model Name | Model | Pretraining Data | Benchmarks | Fine-tuned Tasks | Year |
+## Open Medical Large Language Models (LLMs)
+| Model Name | Model | GitHub | Benchmarks | Fine-tuned Tasks | Year |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | [MedAlpaca](https://arxiv.org/abs/2304.08247) | [Here](https://github.com/kbressem/medAlpaca) |||| 2023 |
 | [Med-Flamingo](https://arxiv.org/abs/2307.15189) | [Here](https://github.com/snap-stanford/med-flamingo) |||| 2023 |
-| [PMC-LLaMA](https://arxiv.org/abs/2304.14454)| [Here](https://github.com/chaoyi-wu/PMC-LLaMA) |||| 2023 |
+| [PMC-LLaMA 13B](https://arxiv.org/abs/2304.14454)| [Here](https://huggingface.co/axiong/PMC_LLaMA_13B) | [Here](https://github.com/chaoyi-wu/PMC-LLaMA) || QA | Aug 2023 |
+| [MEDITRON 7/70B](https://arxiv.org/abs/2311.16079) | [Here](https://huggingface.co/epfl-llm/meditron-70b) | [Here](https://github.com/epfLLM/meditron) || QA | Nov 2023 |
 
 ## Datasets and Benchmarks
 | Data name | Description | Paper | Year |
