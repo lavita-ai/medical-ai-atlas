@@ -11,6 +11,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [PMC-LLaMA 13B](https://arxiv.org/abs/2304.14454)| [Here](https://huggingface.co/axiong/PMC_LLaMA_13B) | [Here](https://github.com/chaoyi-wu/PMC-LLaMA) || QA | Aug 2023 | Open |
 | [MedAlpaca 7/13B](https://arxiv.org/abs/2304.08247) | [Here](https://huggingface.co/medalpaca/medalpaca-13b) | [Here](https://github.com/kbressem/medAlpaca) | USMLE Steps 1, 2, 3 | QA | Oct 2023 | Open |
 | [MEDITRON 7/70B](https://arxiv.org/abs/2311.16079) | [Here](https://huggingface.co/epfl-llm/meditron-70b) | [Here](https://github.com/epfLLM/meditron) || QA | Nov 2023 | Open |
+| [BioMistral](https://arxiv.org/abs/2402.10373) ||||| Feb 2024 | Open |
 | [AlpaCare 7/13B](https://arxiv.org/abs/2310.14558) | [Here](https://huggingface.co/xz97/AlpaCare-llama2-13b)| [Here](https://github.com/XZhang97666/AlpaCare) ||| Apr 2024 | Open |
 | [Med-Gemini](https://arxiv.org/abs/2405.03162) ||||| May 2024 | **Closed** |
 
