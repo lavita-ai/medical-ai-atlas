@@ -15,6 +15,13 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [AlpaCare 7/13B](https://arxiv.org/abs/2310.14558) | [Here](https://huggingface.co/xz97/AlpaCare-llama2-13b)| [Here](https://github.com/XZhang97666/AlpaCare) ||| Apr 2024 | Open |
 | [Med-Gemini](https://arxiv.org/abs/2405.03162) ||||| May 2024 | **Closed** |
 
+## Medical QA websites/companies
+| Name | URL | Benchmarks |
+| :--: | :--: | :--: | 
+| OpenEvidence | [https://www.openevidence.com/](https://www.openevidence.com/) | USMLE, MedQA |
+| MediSearch | [https://medisearch.io/](https://medisearch.io/) | USMLE, MedQA |
+
+
 ## Leaderboards
 | Name| Link |
 | :--: | :--: |
