@@ -118,6 +118,7 @@ A great map for ML/NLP Tools/Works in Biomedical and Clinical Domains
 | [BioSpaCy](https://github.com/wjbmattingly/biospacy) || A pipeline for processing biology texts ||
 | [Glass AI](https://glass.health/ai) | Glass Health | A software for learning and practicing medicine ||
 | [MedPerf](https://github.com/mlcommons/MedPerf) | MLCommons | Medperf is an open benchmarking platform for medical artificial intelligence using Federated Evaluation ||
+|[Nuclei Pathologist-AI framework](https://huangzhii.github.io/nuclei-HAI/#!)| Stanford | Nuclei.io enables pathologists to rapidly create diverse datasets and models for multiple clinically critical applications. ||
 
 
 ## Annotation Tools
